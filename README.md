@@ -2,14 +2,14 @@
 
 <br/>
 <a href="https://www.instagram.com/_awesome_rj_/">
-  <img align="left" alt="Pranav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Rajkumar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 ![](https://visitors-badge.glitch.me/badge?page_id=Dankdel.Dankden)
 
 
 
-Hey, I'm Pranav Ajay, a Web Developer 🚀, Back End Developer & Discord Bot Developer from India. ~~And a Weeb.~~
+Hey, I'm Rajkumar Wadiwala, a Web Developer 🚀, Back End Developer & Discord Bot Developer from India. ~~And a Weeb.~~
 
  **Information:**
 
