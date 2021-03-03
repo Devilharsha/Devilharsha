@@ -18,7 +18,7 @@ Hey, I'm Rajkumar Wadiwala, a Web Developer 🚀, Back End Developer & Discord B
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
 - 🤔 I’m looking for help with  **Data Structures and DP stuff.**
 - 💬 Ask me about  Anything related to **Tech.**
-- 📫 Contact me at :  **pranavajay74@gmail.com.**
+- 📫 Contact me at :  **Rajkumarwadiwala4@gmail.com.**
 - 😄 Pronouns :  **He/Him.**
 - ⚡ Fun fact : **JavaScript >>>> Python.**
 
