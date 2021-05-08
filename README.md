@@ -5,7 +5,7 @@
   <img align="left" alt="Rajkumar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![](https://visitors-badge.glitch.me/badge?page_id=Rajkumar-27.Rajkumar-27)
+![](https://visitors-badge.glitch.me/badge?page_id=Awesome-RJ.Awesome-RJ)
 
 
 
@@ -43,8 +43,8 @@ Hey, I'm Rajkumar Wadiwala, a Web Developer 🚀, Back End Developer & Discord B
 **Stats:**  
 
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Rajkumar-27&theme=dracula&count_private=true"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rajkumar-27&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkumar-27&theme=tokyonight&hide=batchfile">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Awesome-RJ&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Awesome-RJ&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awesome-RJ&theme=tokyonight&hide=batchfile">
 
 
 
