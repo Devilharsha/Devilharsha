@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm 💜「 𝐑𝐚𝐣𝐤𝐮𝐦𝐚𝐫™ 」💜 °•♡왕자♡•°
 
-Hey, I'm Rajkumar Wadiwala, a Web Developer 🚀, Back End Developer & Discord Bot Developer from India. ~~And a Weeb.~~
+Hey, I'm Rajkumar Wadiwala, a Web Developer 🚀, Back End Developer & Telegram Bot Developer from India.
 
  **Information:**
 
