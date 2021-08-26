@@ -1,13 +1,4 @@
-### Hi there 👋, I'm Rajkumar! ([AFK] ラージクマール | Rj |).
-
-<br/>
-<a href="https://www.instagram.com/_awesome_rj_/">
-  <img align="left" alt="Rajkumar's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-![](https://visitors-badge.glitch.me/badge?page_id=Awesome-RJ.Awesome-RJ)
-
-
+### Hi there 👋, I'm 💜「 𝐑𝐚𝐣𝐤𝐮𝐦𝐚𝐫™ 」💜 °•♡왕자♡•°
 
 Hey, I'm Rajkumar Wadiwala, a Web Developer 🚀, Back End Developer & Discord Bot Developer from India. ~~And a Weeb.~~
 
