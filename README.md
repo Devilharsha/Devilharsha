@@ -43,7 +43,8 @@ Hey, I'm Rajkumar Wadiwala, a Web Developer 🚀, Back End Developer & Discord B
 **Stats:**  
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Awesome-RJ&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awesome-RJ&theme=tokyonight&hide=batchfile">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Awesome-RJ&theme=dracula&count_private=true"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Awesome-RJ&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awesome-RJ&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 
 
