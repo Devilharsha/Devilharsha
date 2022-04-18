@@ -1,7 +1,7 @@
-![Rajkumar](https://telegra.ph/file/1cd2438881e52ff44124d.jpg)
-# Hi there 👋, I'm 💜「 𝐑𝐚𝐣𝐤𝐮𝐦𝐚𝐫™ 」💜 °•♡왕자♡•°
+![MXNITRO]()
+# Hi there 👋, I'm 💜「 MXNITRO ™ 」💜 °•♡왕자♡•°
 
-Hey, I'm Rajkumar Wadiwala, a Web Developer 🚀, Back End Developer & Telegram Bot Developer from India.
+Hey, I'm MXNITRO, a Web Developer 🚀, Back End Developer & Telegram Bot Developer from India.
 
  **Information:**
 
@@ -10,7 +10,7 @@ Hey, I'm Rajkumar Wadiwala, a Web Developer 🚀, Back End Developer & Telegram 
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
 - 🤔 I’m looking for help with  **Data Structures and DP stuff.**
 - 💬 Ask me about  Anything related to **Tech.**
-- 📫 Contact me at :  **Rajkumarwadiwala4@gmail.com.**
+- 📫 Contact me at :  **@MXNITRO (TELEGRAM).**
 - 😄 Pronouns :  **He/Him.**
 - ⚡ Fun fact : **JavaScript >>>> Python.**
 
