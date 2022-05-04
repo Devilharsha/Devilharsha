@@ -1,4 +1,4 @@
-![MXNITRO]()
+![MXNITRO](https://telegra.ph//file/e17fa7c8bcf633df71f2f.jpg)
 # Hi there 👋, I'm 💜「 MXNITRO ™ 」💜 °•♡왕자♡•°
 
 Hey, I'm MXNITRO, a Web Developer 🚀, Back End Developer & Telegram Bot Developer from India.
